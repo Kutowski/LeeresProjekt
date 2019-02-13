@@ -1,2 +1,0 @@
-# LeeresProjekt
-Created with CodeSandbox
